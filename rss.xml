@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Reyskaw]]></title>
         <description><![CDATA[Reyskaw]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reyskaw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 17:06:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 17:10:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reyskaw/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Memory Blood Logo]]></title>
+            <description><![CDATA[<article><h1>Memory Blood Logo</h1><p>This is the logo for the Memory Blood series. Did you know that Memory Blood and The Library Series take place in the same world?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abdec187-667c-4548-b734-372b033eecf5.png"></article>]]></description>
+            <link>https://thegrid.ai/reyskaw/memory-blood-logo/index.html</link>
+            <guid isPermaLink="false">300f7f87-43c1-4642-96ed-42f6da0b9fa8</guid>
+            <pubDate>Wed, 10 Feb 2016 17:08:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First Post]]></title>
             <description><![CDATA[<article><h1>First Post</h1><p>Welcome to my test site for The Grid!</p></article>]]></description>
-            <link>undefinedfirst-post/index.html</link>
+            <link>https://thegrid.ai/reyskaw/first-post/index.html</link>
             <guid isPermaLink="false">153e9412-4e1b-4421-818e-a1312651fe9a</guid>
             <pubDate>Wed, 10 Feb 2016 17:05:14 GMT</pubDate>
         </item>
