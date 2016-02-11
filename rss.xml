@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Reyskaw]]></title>
-        <description><![CDATA[Reyskaw]]></description>
+        <title><![CDATA[RMV World Blog]]></title>
+        <description><![CDATA[RMV World Blog]]></description>
         <link>https://thegrid.ai/reyskaw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 05:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 05:53:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reyskaw/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2016 Alpha Fragments]]></title>
+            <description><![CDATA[<article><h1>2016 Alpha Fragments</h1><p>This year, I've set out to write more flash fiction stories. Coming on Valentine's Day is the first such story of this year featuring the introduction of a character whose name you may have heard before.</p></article>]]></description>
+            <link>https://thegrid.ai/reyskaw/2016-alpha-fragments/index.html</link>
+            <guid isPermaLink="false">4373f1b0-cc5f-4334-8ec8-fa4b7aad1397</guid>
+            <pubDate>Thu, 11 Feb 2016 05:53:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Memory Blood 4 Development]]></title>
             <description><![CDATA[<article><h1>Memory Blood 4 Development</h1><p>Memory Blood 4 is scheduled for release August 2016. The plot has already been decided and the writing has begun.</p></article>]]></description>
