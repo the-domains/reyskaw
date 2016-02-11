@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Update on the progress of Memory Blood 4.
-datePublished: '2016-02-11T05:11:57.718Z'
-dateModified: '2016-02-11T05:11:46.835Z'
+datePublished: '2016-02-11T05:54:19.184Z'
+dateModified: '2016-02-11T05:54:14.036Z'
 title: Memory Blood 4 Development
 authors: []
 publisher:
